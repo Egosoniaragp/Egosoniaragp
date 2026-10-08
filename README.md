@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Egosoniaragp
-- 👀 I’m interested in SOFTWARE ENGINEERING
-- 🌱 I’m currently learning software engineering
+- 👋 Hi, I’m Felicia Obinna Amadi
+- 👀 I’m currently interested in Cyber security projects 
 - 💞️ I’m looking to collaborate on various project
-- 📫 How to reach me Egosoniaragp@gmail.com
+- 📫 How to reach me feliciaobinnaamadi@gmail.com
 
 <!---
-Egosoniaragp/Egosoniaragp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
