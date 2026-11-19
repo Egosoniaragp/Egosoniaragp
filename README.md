@@ -13,7 +13,7 @@
 - 🔭 Building **Smvogter** - Danish anti-phishing platform (Threat Detection in action)
 - 🌱 Obsessed with **Microsoft Entra ID, Azure Portal, Microsoft 365, IAM, GRC, SAP, Ethical Hacking**
 - 👯 Looking to collaborate on: Entra ID labs, Threat Hunting, GRC frameworks, SAP identity sync
-- 💼 Open to: IAM Analyst | GRC Analyst | SOC Analyst | Ethical Hacker Internships
+- 💼 Open to: IAM Analyst | GRC Analyst | SOC Analyst | Ethical Hacker | SAP/4HANA
 - 📫 feliciaobinnaamadi@gmail.com
 - ⚡ Fun fact: Merged 13 security dashboards into 1 HTML file - Zero Trust style!
 
@@ -25,7 +25,7 @@
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Portal](https://img.shields.io/badge/Azure_Portal-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
-![Conditional Access](https://img.shields.io/badge/Conditional_Access-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![JouleWork](https://img.shields.io/badge/Conditional_Access-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### 🔴 Security Operations
 ![Threat Detection](https://img.shields.io/badge/Threat_Detection-FF0000?style=for-the-badge&logo=alienware&logoColor=white)
