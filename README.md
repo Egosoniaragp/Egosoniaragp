@@ -41,7 +41,7 @@
 
 #### 🟨 ERP & Dev
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Joulenwork](https://img.shields.io/badge/Joulenwork_Developer-FFC107?style=for-the-badge&logo=devpost&logoColor=black)
+![Joulework](https://img.shields.io/badge/Joulenwork_Developer-FFC107?style=for-the-badge&logo=devpost&logoColor=black)
 ![M365 Dev](https://img.shields.io/badge/M365_Dev-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
